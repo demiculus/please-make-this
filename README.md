@@ -13,7 +13,7 @@ You can say that you have started creating by posting your github project url or
 
 ## Github for Ideas
 
-##### Description
+##### Description:
 
 A platform where people can collaborate on ideas. The basic functionalities include
 
@@ -30,7 +30,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ## Add Your Idea Here
 
-##### Description
+##### Description:
 
 ##### Editors:
 
