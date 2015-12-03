@@ -28,6 +28,19 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Creators: None
 
+## A Better Mac Photo Viewer
+
+##### Description:
+
+In windows when you view a photo and click right it automaticall shows the next photo in the folder. But in Mac you have to select all of the photos you want to view and open them to view them. 
+So I want a Mac Photo Viewer where I don't have to select all of the photos in a folder to view them.
+
+##### Editors: [demirb](https://github.com/demirb),
+
+##### Supporters: [demirb](https://github.com/demirb),
+
+##### Creators: None
+
 ## Idea Name
 
 ##### Description:
