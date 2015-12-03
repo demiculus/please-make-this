@@ -1,14 +1,11 @@
 # make-my-idea
 Create, support &amp; contribute so that ideas can become a reality.
 
-- Add your idea
-
+#####Add your idea: 
 You can add your idea by just editing this document.
-- Support other ideas 
-
+#####Support other ideas: 
 You can say that you are supporting an idea by posting your github url as a supporter of the idea
-- Create products from ideas 
-
+#####Create products from ideas: 
 You can say that you have started creating by posting your github project url or website as a creator
 
 ## Github for Ideas
