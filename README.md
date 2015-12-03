@@ -18,7 +18,7 @@ You can say that you have started creating by posting your github project url or
 A platform where people can collaborate on ideas. The basic functionalities include
 
 - Creating ideas
-- Discussion on ideas
+- Discussing ideas
 - Editing ideas
 - Supporting ideas: supporters subscribe to the idea and get email updates when someone completes it 
 
@@ -28,7 +28,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Creators: None
 
-## Add Your Idea Here
+## Idea Name
 
 ##### Description:
 
