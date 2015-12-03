@@ -39,8 +39,10 @@ So I want a Mac Photo Viewer where I don't have to select all of the photos in a
 ##### Creators: None
 
 ## Idea Name
+water bottle which is kind of baloon
 
-##### Description:
+##### Description: We all carry water bottles in our back pack. when it is full with water it is normal that it fills space in the bag. but when it is empty it holds unnecessary space in the bag. 
+this is y I want a water bottle which is like a baloon, which can shrink into the size accordingly to the amount of water inside. the bottle must be reuseable, resisstant, flexible and easy to clean.  
 
 ##### Editors:
 
