@@ -42,7 +42,7 @@ So I want a Mac Photo Viewer where I don't have to select all of the photos in a
 
 ##### Description: 
 
-We all carry water bottles in our back pack. Normal water bottles fill up the same space wether or not they are full or empty.
+We all carry water bottles in our back pack. Normal water bottles fill up the same space whether or not they are full or empty.
 This is why I want a water bottle which is like a baloon, which can shrink into the size accordingly to the amount of water inside. The bottle must be reuseable, resisstant, flexible and easy to clean or better self cleaning. 
 
 ##### Editors: [bikeelal](https://github.com/bikeelal),
