@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),
+##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil)
 
 ##### Creators: None
 
@@ -34,7 +34,7 @@ So I want a Mac Photo Viewer where I don't have to select all of the photos in a
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),
+##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil)
 
 ##### Creators: None
 
@@ -47,7 +47,19 @@ This is why I want a water bottle which is like a baloon, which can shrink into 
 
 ##### Editors: [bikeelal](https://github.com/bikeelal),
 
-##### Supporters: [bikeelal](https://github.com/bikeelal), [demirb](https://github.com/demirb),
+##### Supporters: [bikeelal](https://github.com/bikeelal), [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil)
+
+##### Creators: None
+
+## Automated hotel
+
+##### Description:
+
+You have an app. You go to the hotel, there is no person, you open the lock from your smartphone app, and you have lockers to lock your private items and you can open them with your app. Bathrooms are also locked and can be opened by smartphones
+
+##### Editors: [goktugyil](https://github.com/goktugyil),
+
+##### Supporters: [goktugyil](https://github.com/goktugyil),
 
 ##### Creators: None
 
