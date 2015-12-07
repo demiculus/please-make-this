@@ -79,6 +79,18 @@ If the target is not matched, donations are returned to their donators.
 
 ##### Creators: None
 
+## 9GAG Partnership
+
+##### Description:
+
+The platform will be something like 9GAG but also have a revenue sharing system. So when something goes viral the creators of those posts will earn a portion of the revenue.
+
+##### Editors: [borisraquel](https://github.com/borisraquel),
+
+##### Supporters: [borisraquel](https://github.com/borisraquel),
+
+##### Creators: None
+
 ## New Idea Name
 
 ##### Description: 
