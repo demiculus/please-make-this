@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil)
+##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [schwarkN](https://github.com/schwarkN)
 
 ##### Creators: None
 
@@ -34,7 +34,7 @@ So I want a Mac Photo Viewer where I don't have to select all of the photos in a
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil)
+##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [schwarkN](https://github.com/schwarkN)
 
 ##### Creators: None
 
@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil), [Ronll](https://github.com/ronll)
+##### Supporters: [goktugyil](https://github.com/goktugyil), [Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN)
 
 ##### Creators: None
 
