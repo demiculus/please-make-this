@@ -105,6 +105,18 @@ For places like neck there will also be a repeller where they can not live and t
 
 ##### Creators: None
 
+## Facial Recognition Porn
+
+##### Description: 
+
+You upload the picture of a person. The software then scans and shows you the pics & videos of similar looking artists. 
+
+##### Editors: [peter1993](https://github.com/peter1993),
+
+##### Supporters: [peter1993](https://github.com/peter1993),
+
+##### Creators: None
+
 ## New Idea Name
 
 ##### Description: 
