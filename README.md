@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[KristenJean](https://github.com/KirstenJean),
 
 ##### Creators: None
 
@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),
+##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[KristenJean](https://github.com/KirstenJean),
 
 ##### Creators: None
 
@@ -101,7 +101,7 @@ For places like neck there will also be a repeller where they can not live and t
 
 ##### Editors: [brutis73](https://github.com/brutis73)
 
-##### Supporters: [brutis73](https://github.com/brutis73)
+##### Supporters: [brutis73](https://github.com/brutis73),[KristenJean](https://github.com/KirstenJean),
 
 ##### Creators: None
 
