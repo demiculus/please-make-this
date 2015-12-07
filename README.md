@@ -87,7 +87,7 @@ The platform will be something like 9GAG but also have a revenue sharing system.
 
 ##### Editors: [borisraquel](https://github.com/borisraquel),
 
-##### Supporters: [borisraquel](https://github.com/borisraquel),[GarryWhit](https://github.com/GarryWhit),
+##### Supporters: [borisraquel](https://github.com/borisraquel),[GarryWhit](https://github.com/GarryWhit),[GarryWhit](https://github.com/stephenkoh),
 
 ##### Creators: None
 
