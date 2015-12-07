@@ -117,6 +117,18 @@ You upload the picture of a person. The software then scans and shows you the pi
 
 ##### Creators: None
 
+## Musicality for Dancers 
+
+##### Description: 
+
+The software will provide different amounts,types & styles of beats and the user will try to guess and hit the beat at the correct spot. The songs will be real songs & real hiphop beats and the program will start off with the most basic songs and as your level improves it will also improve the quality & the hardness of the songs. 
+
+##### Editors: [demirb](https://github.com/demirb),
+
+##### Supporters: [demirb](https://github.com/demirb),
+
+##### Creators: None
+
 ## New Idea Name
 
 ##### Description: 
