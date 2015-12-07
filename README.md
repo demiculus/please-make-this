@@ -47,7 +47,7 @@ This is why I want a water bottle which is like a baloon, which can shrink into 
 
 ##### Editors: [bikeelal](https://github.com/bikeelal),
 
-##### Supporters: [bikeelal](https://github.com/bikeelal), [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [thellimist](https://github.com/thellimist), [Ronll](https://github.com/ronll)
+##### Supporters: [bikeelal](https://github.com/bikeelal), [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [thellimist](https://github.com/thellimist), [Ronll](https://github.com/ronll),[thurinwet](https://github.com/thurinwet)
 
 ##### Creators: None
 
@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil), [Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN)
+##### Supporters: [goktugyil](https://github.com/goktugyil), [Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet)
 
 ##### Creators: None
 
@@ -75,7 +75,7 @@ If the target is not matched, donations are returned to their donators.
 
 ##### Editors: [emrehan](https://github.com)
 
-##### Supporters: [emrehan](https://github.com)
+##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),
 
 ##### Creators: None
 
