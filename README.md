@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),
 
 ##### Creators: None
 
@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),
+##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),
 
 ##### Creators: None
 
@@ -87,7 +87,7 @@ The platform will be something like 9GAG but also have a revenue sharing system.
 
 ##### Editors: [borisraquel](https://github.com/borisraquel),
 
-##### Supporters: [borisraquel](https://github.com/borisraquel),
+##### Supporters: [borisraquel](https://github.com/borisraquel),[GarryWhit](https://github.com/GarryWhit),
 
 ##### Creators: None
 
