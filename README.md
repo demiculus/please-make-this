@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[emreilgar](https://github.com/emreilgar),
 
 ##### Creators: None
 
@@ -87,7 +87,7 @@ The platform will be something like 9GAG but also have a revenue sharing system.
 
 ##### Editors: [borisraquel](https://github.com/borisraquel),
 
-##### Supporters: [borisraquel](https://github.com/borisraquel),[GarryWhit](https://github.com/GarryWhit),[stephenkoh](https://github.com/stephenkoh),[demirb](https://github.com/demirb),
+##### Supporters: [borisraquel](https://github.com/borisraquel),[GarryWhit](https://github.com/GarryWhit),[stephenkoh](https://github.com/stephenkoh),[demirb](https://github.com/demirb),[emreilgar](https://github.com/emreilgar),
 
 ##### Creators: None
 
