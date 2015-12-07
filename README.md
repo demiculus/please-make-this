@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [schwarkN](https://github.com/schwarkN)
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),
 
 ##### Creators: None
 
@@ -34,7 +34,7 @@ So I want a Mac Photo Viewer where I don't have to select all of the photos in a
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [schwarkN](https://github.com/schwarkN)
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73)
 
 ##### Creators: None
 
@@ -47,7 +47,7 @@ This is why I want a water bottle which is like a baloon, which can shrink into 
 
 ##### Editors: [bikeelal](https://github.com/bikeelal),
 
-##### Supporters: [bikeelal](https://github.com/bikeelal), [demirb](https://github.com/demirb), [goktugyil](https://github.com/goktugyil), [thellimist](https://github.com/thellimist), [Ronll](https://github.com/ronll),[thurinwet](https://github.com/thurinwet)
+##### Supporters: [bikeelal](https://github.com/bikeelal),[demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[thellimist](https://github.com/thellimist),[Ronll](https://github.com/ronll),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73)
 
 ##### Creators: None
 
@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil), [Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet)
+##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),
 
 ##### Creators: None
 
@@ -75,7 +75,7 @@ If the target is not matched, donations are returned to their donators.
 
 ##### Editors: [emrehan](https://github.com)
 
-##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),
+##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),
 
 ##### Creators: None
 
@@ -88,6 +88,20 @@ The platform will be something like 9GAG but also have a revenue sharing system.
 ##### Editors: [borisraquel](https://github.com/borisraquel),
 
 ##### Supporters: [borisraquel](https://github.com/borisraquel),
+
+##### Creators: None
+
+## Bacteria Epilation
+
+##### Description: 
+
+A bacteria type will be created, it will be placed on the body and it will feed on the hair and nothing else.
+It will have a short life time so that if can not jump to the head & start feeding there. 
+For places like neck there will also be a repeller where they can not live and that is applied to the area where the bacteria should not be in effect. 
+
+##### Editors: [brutis73](https://github.com/brutis73)
+
+##### Supporters: [brutis73](https://github.com/brutis73)
 
 ##### Creators: None
 
