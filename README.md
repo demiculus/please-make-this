@@ -63,6 +63,22 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Creators: None
 
+## BitCrowd
+
+##### Description: 
+
+A crowd sourcing application that works anonymously with Bitcoin.
+Anyone could create a campaign with a bitcoin wallet, a donation target and a due date.
+Then, the application creates a Bitcoin wallet for this campaign and others can donate money to this wallet.
+When the due date arrives, if donations matches the target the app moves Bitcoins to the campaign creator.
+If the target is not matched, donations are returned to their donators.
+
+##### Editors: [emrehan](https://github.com)
+
+##### Supporters: [emrehan](https://github.com)
+
+##### Creators: None
+
 ## New Idea Name
 
 ##### Description: 
