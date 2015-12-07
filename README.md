@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[birhansengul](https://github.com/birhansengul),[josesanc](https://github.com/josesanc),[demirb](https://github.com/demirb),
+##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[birhansengul](https://github.com/birhansengul),[josesanc](https://github.com/josesanc),[demirb](https://github.com/demirb),[yusuf55](https://github.com/yusuf55),
 
 ##### Creators: None
 
@@ -113,7 +113,7 @@ You upload the picture of a person. The software then scans and shows you the pi
 
 ##### Editors: [peter1993](https://github.com/peter1993),
 
-##### Supporters: [peter1993](https://github.com/peter1993),
+##### Supporters: [peter1993](https://github.com/peter1993),[yusuf55](https://github.com/yusuf55),
 
 ##### Creators: None
 
