@@ -59,7 +59,7 @@ You have an app. You go to the hotel, there is no person, you open the lock from
 
 ##### Editors: [goktugyil](https://github.com/goktugyil),
 
-##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[birhansengul](https://github.com/birhansengul),
+##### Supporters: [goktugyil](https://github.com/goktugyil),[Ronll](https://github.com/ronll), [schwarkN](https://github.com/schwarkN),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[birhansengul](https://github.com/birhansengul),[josesanc](https://github.com/josesanc),
 
 ##### Creators: None
 
