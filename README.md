@@ -21,7 +21,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Editors: [demirb](https://github.com/demirb),
 
-##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[emreilgar](https://github.com/emreilgar),
+##### Supporters: [demirb](https://github.com/demirb),[goktugyil](https://github.com/goktugyil),[schwarkN](https://github.com/schwarkN),[brutis73](https://github.com/brutis73),[GarryWhit](https://github.com/GarryWhit),[emreilgar](https://github.com/emreilgar), [castlecorp](https://github.com/castlecorp)
 
 ##### Creators: None
 
@@ -29,7 +29,7 @@ A platform where people can collaborate on ideas. The basic functionalities incl
 
 ##### Description:
 
-In windows when you view a photo and click right it automaticall shows the next photo in the folder. But in Mac you have to select all of the photos you want to view and open them to view them. 
+In windows when you view a photo and click right it automatically shows the next photo in the folder. But in Mac you have to select all of the photos you want to view and open them to view them. 
 So I want a Mac Photo Viewer where I don't have to select all of the photos in a folder to view them.
 
 ##### Editors: [demirb](https://github.com/demirb),
@@ -75,7 +75,7 @@ If the target is not matched, donations are returned to their donators.
 
 ##### Editors: [emrehan](https://github.com)
 
-##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73),
+##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73), [castlecorp](https://github.com/castlecorp)
 
 ##### Creators: None
 
