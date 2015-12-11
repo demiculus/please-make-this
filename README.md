@@ -75,7 +75,7 @@ If the target is not matched, donations are returned to their donators.
 
 ##### Editors: [emrehan](https://github.com)
 
-##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73), [castlecorp](https://github.com/castlecorp)
+##### Supporters: [emrehan](https://github.com),[thurinwet](https://github.com/thurinwet),[brutis73](https://github.com/brutis73), [castlecorp](https://github.com/castlecorp), [goktugyil](https://github.com/goktugyil)
 
 ##### Creators: None
 
