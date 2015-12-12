@@ -129,6 +129,42 @@ The software will provide different amounts,types & styles of beats and the user
 
 ##### Creators: None
 
+## RescueTime for the Brain
+
+##### Description: 
+
+A brainwave tracker (possibly enhanced with an activity tracker) that generates stats as to how productive you are, how you allocate your time to different tasks, and proposes tips for improvement. (e.g: "you seem to procrastinate more in the morning so avoid checking your Facebook feed when you wake up")
+
+##### Editors: [Nocturnae](https://github.com/Nocturnae)
+
+##### Supporters: [Nocturnae](https://github.com/Nocturnae)
+
+##### Creators: None
+
+## A "Did You Mean...?" Plugin for Popular IDEs
+
+##### Description: 
+
+A plugin that eliminates the need to google StackOverflow every time you get stuck/run into trouble while coding by running an automatic query giving you possible solutions in a box inside your IDE. It could gradually learn your coding style, giving more relevant results.
+
+##### Editors: [Nocturnae](https://github.com/Nocturnae)
+
+##### Supporters: [Nocturnae](https://github.com/Nocturnae)
+
+##### Creators: None
+
+## Fridge Optimizer
+
+##### Description: 
+
+An IoT project for avid cooks that scans the contents of your fridge and offers meal plans (according to your dietary choices) as well as potentially essential ingredients so that you can save time and money on food.
+
+##### Editors: [Nocturnae](https://github.com/Nocturnae)
+
+##### Supporters: [Nocturnae](https://github.com/Nocturnae)
+
+##### Creators: None
+
 ## New Idea Name
 
 ##### Description: 
