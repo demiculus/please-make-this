@@ -1,11 +1,11 @@
 # please-make-this
 Create, support &amp; contribute so that ideas can become a reality.
 
-#####Add your request: 
+##### Add your request: 
 You can add your request by just editing this document.
-#####Support other requests: 
+##### Support other requests: 
 You can say that you are supporting a request by posting your github url to the supporters area.
-#####Create products: 
+##### Create products: 
 You can say that you have started creating by posting your github project url or website as a creator
 
 ## Github for Requests
